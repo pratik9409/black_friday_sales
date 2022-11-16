@@ -4,8 +4,10 @@ This dataset comprises of sales transactions captured at a retail store. It’s 
 
 
 ### Data Overview
-Dataset has 537577 rows (transactions) and 12 columns (features) as described below:
 
+Dataset Link: https://www.kaggle.com/datasets/sdolezel/black-friday?resource=download
+
+Dataset has 537577 rows (transactions) and 12 columns (features) as described below:
 User_ID: Unique ID of the user. There are a total of 5891 users in the dataset. <br>
 Product_ID: Unique ID of the product. There are a total of 3623 products in the dataset.<br>
 Gender: indicates the gender of the person making the transaction.<br>
