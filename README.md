@@ -20,9 +20,16 @@ Purchase: Purchase amount.
 
 ## Analysis
 
-Purchasing orders of men is high then women
+You can see the products purchased by male and female are almost similar. 
+Note: Female = 0 & Male = 1
 
-![gender](https://user-images.githubusercontent.com/67755812/202197023-731c6e3f-e528-4d46-aa24-da1c2850a801.png)
+![product_category1](https://user-images.githubusercontent.com/67755812/202199623-d09b7060-bdef-440e-b3a9-ad7f4aa70854.png)
+
+
+![product_category_2](https://user-images.githubusercontent.com/67755812/202199650-645cd5f1-92c9-493b-8898-1808842e2562.png)
+
+
+![product_category_3](https://user-images.githubusercontent.com/67755812/202199669-a90a37e8-3dff-4ef9-b7a9-7df72505969a.png)
 
 
 We can observe that purchase amount is repeating for many customers.This may be because on Black Friday many are buying discounted products in large numbers and kind of follows a Gaussian Distribution.
